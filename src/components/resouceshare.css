@@ -1,0 +1,83 @@
+.resource-share-container {
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+  }
+  
+  h2, h3 {
+    text-align: center;
+  }
+  
+  p {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    display: block;
+    margin: auto;
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .resource-list {
+    margin-top: 20px;
+  }
+  
+  .resource-item {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .resource-item h4 {
+    margin: 0;
+  }
+  
+  .resource-item p {
+    margin: 5px 0 0;
+    text-align: left;
+  }
+  
+  .resource-item a {
+    text-decoration: none;
+    color: #007BFF;
+  }
+  
+  .resource-item a:hover {
+    text-decoration: underline;
+  }
+  

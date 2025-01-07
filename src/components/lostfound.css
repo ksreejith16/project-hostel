@@ -1,0 +1,82 @@
+.lost-found-container {
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  margin-top: 50px;
+}
+
+h2, h3 {
+  text-align: center;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+button {
+  padding: 10px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.lost-items {
+  margin-top: 20px;
+}
+
+.lost-item {
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.lost-item h4 {
+  margin: 0;
+  margin-bottom: 5px;
+}
+
+.lost-item p {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.lost-item button {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.lost-item button:hover {
+  background-color: #c82333;
+}
+
+.onee{
+  text-align: left;
+}
